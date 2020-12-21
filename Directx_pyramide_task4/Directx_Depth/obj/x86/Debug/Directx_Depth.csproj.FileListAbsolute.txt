@@ -1,0 +1,64 @@
+I:\Projects\Directx_Depth\Directx_Depth\bin\Debug\Directx_Depth.exe
+I:\Projects\Directx_Depth\Directx_Depth\bin\Debug\Directx_Depth.pdb
+I:\Projects\Directx_Depth\Directx_Depth\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Projects\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.Properties.Resources.resources
+I:\Projects\Directx_Depth\Directx_Depth\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+I:\Projects\Directx_Depth\Directx_Depth\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+I:\Projects\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.exe
+I:\Projects\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.pdb
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.Properties.Resources.resources
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.exe
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.pdb
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\bin\Debug\Directx_Depth.exe
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\bin\Debug\Directx_Depth.pdb
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CopyComplete
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\Directx_Depth\Directx_Depth\obj\x86\Debug\Directx_Depth.Form1.resources
+C:\Users\klop4\Desktop\Task_4_Межевых Л.С\Directx_Depth\bin\Debug\Directx_Depth.exe
+C:\Users\klop4\Desktop\Task_4_Межевых Л.С\Directx_Depth\bin\Debug\Directx_Depth.pdb
+C:\Users\klop4\Desktop\Task_4_Межевых Л.С\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\klop4\Desktop\Task_4_Межевых Л.С\Directx_Depth\bin\Debug\Microsoft.DirectX.dll
+C:\Users\klop4\Desktop\Task_4_Межевых Л.С\Directx_Depth\bin\Debug\Microsoft.DirectX.xml
+C:\Users\klop4\Desktop\Task_4_Межевых Л.С\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\klop4\Desktop\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.csprojAssemblyReference.cache
+C:\Users\klop4\Desktop\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.Form1.resources
+C:\Users\klop4\Desktop\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.Properties.Resources.resources
+C:\Users\klop4\Desktop\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.GenerateResource.cache
+C:\Users\klop4\Desktop\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CoreCompileInputs.cache
+C:\Users\klop4\Desktop\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CopyComplete
+C:\Users\klop4\Desktop\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.exe
+C:\Users\klop4\Desktop\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.pdb
+C:\Users\Sergey\Downloads\Task_4_Межевых Л.С\Task_4_Межевых Л.С\Directx_Depth\bin\Debug\Directx_Depth.exe
+C:\Users\Sergey\Downloads\Task_4_Межевых Л.С\Task_4_Межевых Л.С\Directx_Depth\bin\Debug\Directx_Depth.pdb
+C:\Users\Sergey\Downloads\Task_4_Межевых Л.С\Task_4_Межевых Л.С\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Sergey\Downloads\Task_4_Межевых Л.С\Task_4_Межевых Л.С\Directx_Depth\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Sergey\Downloads\Task_4_Межевых Л.С\Task_4_Межевых Л.С\Directx_Depth\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Sergey\Downloads\Task_4_Межевых Л.С\Task_4_Межевых Л.С\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Sergey\Downloads\Task_4_Межевых Л.С\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.csprojAssemblyReference.cache
+C:\Users\Sergey\Downloads\Task_4_Межевых Л.С\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.Form1.resources
+C:\Users\Sergey\Downloads\Task_4_Межевых Л.С\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.Properties.Resources.resources
+C:\Users\Sergey\Downloads\Task_4_Межевых Л.С\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.GenerateResource.cache
+C:\Users\Sergey\Downloads\Task_4_Межевых Л.С\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Downloads\Task_4_Межевых Л.С\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CopyComplete
+C:\Users\Sergey\Downloads\Task_4_Межевых Л.С\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.exe
+C:\Users\Sergey\Downloads\Task_4_Межевых Л.С\Task_4_Межевых Л.С\Directx_Depth\obj\x86\Debug\Directx_Depth.pdb
+D:\labi_Andreya\Directx_pyramide_task4\Directx_Depth\bin\Debug\Directx_Depth.exe
+D:\labi_Andreya\Directx_pyramide_task4\Directx_Depth\bin\Debug\Directx_Depth.pdb
+D:\labi_Andreya\Directx_pyramide_task4\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\labi_Andreya\Directx_pyramide_task4\Directx_Depth\bin\Debug\Microsoft.DirectX.dll
+D:\labi_Andreya\Directx_pyramide_task4\Directx_Depth\bin\Debug\Microsoft.DirectX.xml
+D:\labi_Andreya\Directx_pyramide_task4\Directx_Depth\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\labi_Andreya\Directx_pyramide_task4\Directx_Depth\obj\x86\Debug\Directx_Depth.csprojAssemblyReference.cache
+D:\labi_Andreya\Directx_pyramide_task4\Directx_Depth\obj\x86\Debug\Directx_Depth.Form1.resources
+D:\labi_Andreya\Directx_pyramide_task4\Directx_Depth\obj\x86\Debug\Directx_Depth.Properties.Resources.resources
+D:\labi_Andreya\Directx_pyramide_task4\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.GenerateResource.cache
+D:\labi_Andreya\Directx_pyramide_task4\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CoreCompileInputs.cache
+D:\labi_Andreya\Directx_pyramide_task4\Directx_Depth\obj\x86\Debug\Directx_Depth.csproj.CopyComplete
+D:\labi_Andreya\Directx_pyramide_task4\Directx_Depth\obj\x86\Debug\Directx_Depth.exe
+D:\labi_Andreya\Directx_pyramide_task4\Directx_Depth\obj\x86\Debug\Directx_Depth.pdb
